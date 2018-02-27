@@ -1,0 +1,2 @@
+# latestnews
+GitHub Pages
